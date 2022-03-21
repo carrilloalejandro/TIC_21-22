@@ -7,6 +7,7 @@ public class vehiculo {
 	private int capacidad;
 	private int ruedas;
 	private int puertas;
+	
 	public vehiculo(String id, String medio) {
 		super();
 		this.id = id;
